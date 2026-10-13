@@ -1,1 +1,3 @@
-
+theme: jekyll-theme-minimal
+title: Red Battle simulator.
+description: Trying to make a battle simulator (something like the bad time simulator).
